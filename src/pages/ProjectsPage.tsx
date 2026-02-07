@@ -31,7 +31,7 @@ const projects: Project[] = [
   icon: "🛒",
   tech: ["HTML", "CSS", "JavaScript", "Dynamic UI/UX "],
   github: "https://github.com/gauriiv/shopline",
-  demo: "https://shopline.gaurii.me/",
+  demo: "https://shop-line-pi.vercel.app/",
 },
 
   {
