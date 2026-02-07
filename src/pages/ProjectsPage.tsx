@@ -9,19 +9,19 @@ interface Project {
 
 const projects: Project[] = [
   {
-    title: "Project1",
-    description: "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore magna.",
-    icon: "👤",
-    tech: ["HTML", "CSS", "Node.js", "APIs"],
-    github: "https://github.com/gauriiv/",
-    demo: "https://",
+    title: "Clone of NS3Edu",
+    description: "A responsive front-end clone of the NS3Edu website built using React and modern CSS. The project focuses on component-based architecture, smooth navigation with React Router, and a clean, user-friendly UI.",
+    icon: "🎓",
+    tech: ["React", "CSS", "React-Router", "JavaScript (ES6+)"],
+    github: "https://github.com/gauriiv/ns3edu-clone",
+    demo: "https://clone.gaurii.me/",
   },
   {
     title: "Weather App",
     description: "Live weather application with beautiful visualizations, location-based forecasts, and weather alerts using modern APIs.",
     icon: "🌤️",
     tech: ["HTML", "CSS", "Node.js", "APIs"],
-    github: "https://github.com/gauriiv/weather-app",
+    github: "https://github.com/gauriiv/zomato-weather",
     demo: "https://weather.gaurii.me/",
   },
   {
