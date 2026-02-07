@@ -25,18 +25,20 @@ const projects: Project[] = [
     demo: "https://weather.gaurii.me/",
   },
   {
-    title: "Project3",
-    description: "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore magna.",
-    icon: "👤",
-    tech: ["HTML", "CSS", "Node.js", "APIs"],
-    github: "https://github.com/gauriiv/chatspace",
-    demo: "https://chatspace.gaurii.me/",
-  },
+  title: "ShopLine",
+  description:
+    "A responsive personal profile web application showcasing user information, clean layouts, and interactive UI elements built with vanilla HTML, CSS, and JavaScript.",
+  icon: "🛒",
+  tech: ["HTML", "CSS", "JavaScript", "Dynamic UI/UX "],
+  github: "https://github.com/gauriiv/shopline",
+  demo: "https://shopline.gaurii.me/",
+},
+
   {
     title: "Project4",
     description: "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore magna.",
     icon: "👤",
-    tech: ["HTML", "CSS", "Node.js", "APIs"],
+    tech: ["HTML", "CSS", "Node.js", "JavaScript"],
     github: "https://github.com/gauriiv/persona",
     demo: "https://persona.gaurii.me/",
   },
