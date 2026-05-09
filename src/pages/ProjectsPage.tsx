@@ -8,14 +8,15 @@ interface Project {
 }
 
 const projects: Project[] = [
-  {
-    title: "Clone of NS3Edu",
-    description: "A responsive front-end clone of the NS3Edu website built using React and modern CSS. The project focuses on component-based architecture, smooth navigation with React Router, and a clean, user-friendly UI.",
-    icon: "🎓",
-    tech: ["React", "CSS", "React-Router", "JavaScript (ES6+)"],
-    github: "https://github.com/gauriiv/ns3edu-clone",
-    demo: "https://clone.gaurii.me/",
+    {
+    title: "Cinpulse",
+    description: "A movie details web application that provides users with comprehensive information about movies, including ratings, reviews, and revenue data and many more.",
+    icon: "🎬",
+    tech: ["React", "TMDB API", "Node.js", "JavaScript"],
+    github: "https://github.com/gauriiv/CinPulse",
+    demo: "https://movie.gaurii.me/",
   },
+ 
   {
     title: "Weather App",
     description: "Live weather application with beautiful visualizations, location-based forecasts, and weather alerts using modern APIs.",
@@ -33,15 +34,16 @@ const projects: Project[] = [
   github: "https://github.com/gauriiv/shopline",
   demo: "https://shop-line-pi.vercel.app/",
 },
-
-  {
-    title: "Project4",
-    description: "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore magna.",
-    icon: "👤",
-    tech: ["HTML", "CSS", "Node.js", "JavaScript"],
-    github: "https://github.com/gauriiv/persona",
-    demo: "https://persona.gaurii.me/",
+ {
+    title: "Clone of NS3Edu",
+    description: "A responsive front-end clone of the NS3Edu website built using React and modern CSS. The project focuses on component-based architecture, smooth navigation with React Router, and a clean, user-friendly UI.",
+    icon: "🎓",
+    tech: ["React", "CSS", "React-Router", "JavaScript (ES6+)"],
+    github: "https://github.com/gauriiv/ns3edu-clone",
+    demo: "https://clone.gaurii.me/",
   },
+
+
 ];
 
 export default function ProjectsPage() {
